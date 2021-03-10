@@ -2,6 +2,11 @@ body{
     margin: 0;
 }
 
-h2{
-    color:green;
+h1{
+    font-size: 72px;
+    color: #FFF;
+    background-color: #281B2D;
+    text-align: center;
+    margin-top: 0;
+    padding: 25px 0;
 }
