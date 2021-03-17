@@ -17,6 +17,7 @@ h1{
     background-color: #281B2D;
     border-bottom:solid 5px #00C54C;
     padding: 15px;
+    margin-top: 0 ;
 }
 
 .white-text{
@@ -40,8 +41,23 @@ h1{
 
 .sidebar{
     width: 30%;
+    background-color: #9ae84f;
+    padding: 15px;
 }
 
 .col-right{
     margin-left: 25px;
+}
+
+a{
+    color:#9138b7;
+}
+
+a:hover{
+    color:#fff;
+}
+
+.source{
+    font-size: 12px;
+    margin-left: 18px;
 }
